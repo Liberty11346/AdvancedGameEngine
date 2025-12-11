@@ -73,3 +73,8 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+*.pdb
+Windows/finalExam/Content/Paks/global.ucas
+Windows/finalExam/Content/Paks/global.utoc
+Windows/finalExam/Content/Paks/finalExam-Windows.ucas
+Windows/finalExam/Content/Paks/finalExam-Windows.utoc
