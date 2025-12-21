@@ -4,7 +4,7 @@
 - **UE Version:** 5.0.3
 
 ## Build / Run Instructions
-1. Download **BuildFile.zip**.
+1. Download **AdvGE_Final_Team_9_Build.zip**.
 2. Extract the archive.
 3. Run **finalExam.exe**.
 
